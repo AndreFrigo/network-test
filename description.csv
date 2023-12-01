@@ -60,3 +60,7 @@ unitn-eth,HPC,Compute,,../data/unitn-eth/2023_11_18_20_16_02/gemm_
 unitn-op,HPC,Different Racks,Day,../data/unitn-op/2023_11_21_21_54_15
 unitn-op,HPC,Compute,,../data/unitn-op/2023_11_21_21_54_15/gemm_
 unitn-op,HPC,Same Rack,Day,../data/unitn-op/2023_11_22_09_43_25
+unitn-op,HPC,Same Rack,Day,16_parallel_conn,../data/unitn-op/2023_11_23_09_44_11
+unitn-op,HPC,Compute,,../data/unitn-op/2023_11_23_09_44_11/gemm_
+unitn-op,HPC,Different Racks,Day,16_parallel_conn,../data/unitn-op/2023_11_23_11_31_46
+unitn-op,HPC,Compute,,../data/unitn-op/2023_11_23_11_31_46/gemm_
