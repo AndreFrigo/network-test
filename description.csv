@@ -64,3 +64,4 @@ unitn-op,HPC,Same Rack,Day,16_parallel_conn,../data/unitn-op/2023_11_23_09_44_11
 unitn-op,HPC,Compute,,../data/unitn-op/2023_11_23_09_44_11/gemm_
 unitn-op,HPC,Different Racks,Day,16_parallel_conn,../data/unitn-op/2023_11_23_11_31_46
 unitn-op,HPC,Compute,,../data/unitn-op/2023_11_23_11_31_46/gemm_
+unitn-eth,HPC,Different Racks,Day,1_parallel_conn_test_uguale_container,/home/andrea.frigo/cloud_noise/data/unitn-eth/2023_12_09_11_01_50
