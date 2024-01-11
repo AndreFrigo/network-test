@@ -1,0 +1,364 @@
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14510.87 us 	 == 8886.56 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14442.68 us 	 == 8992.74 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14997.72 us 	 == 8119.57 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14576.79 us 	 == 8535.49 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14591.22 us 	 == 8187.65 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14927.98 us 	 == 8328.65 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14432.91 us 	 == 8827.26 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14470.93 us 	 == 8242.37 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14711.62 us 	 == 8276.00 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14858.96 us 	 == 8429.29 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14757.04 us 	 == 8307.75 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14427.78 us 	 == 8858.31 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14716.15 us 	 == 8330.80 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14997.12 us 	 == 8285.26 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 15272.86 us 	 == 8302.97 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14735.10 us 	 == 8394.28 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14421.70 us 	 == 8745.74 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14705.30 us 	 == 8360.19 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14489.05 us 	 == 9008.64 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14535.19 us 	 == 8969.74 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14572.02 us 	 == 8684.95 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14645.10 us 	 == 8416.94 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14760.14 us 	 == 8382.85 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14392.14 us 	 == 8765.76 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14406.32 us 	 == 8777.71 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14785.89 us 	 == 8361.86 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14572.38 us 	 == 8323.11 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14826.06 us 	 == 8213.09 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14636.87 us 	 == 8416.37 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14683.49 us 	 == 8301.87 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14519.33 us 	 == 8018.66 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14526.25 us 	 == 8294.53 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14492.87 us 	 == 8431.69 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14666.68 us 	 == 8441.29 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14555.33 us 	 == 8759.14 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14534.00 us 	 == 8858.87 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14743.09 us 	 == 8219.33 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14404.65 us 	 == 8408.64 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 15032.17 us 	 == 8263.85 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14498.00 us 	 == 8287.76 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14556.88 us 	 == 8895.68 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14379.38 us 	 == 8749.27 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14412.64 us 	 == 8728.31 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14629.96 us 	 == 8390.47 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 15042.54 us 	 == 8286.84 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14806.99 us 	 == 8562.69 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14653.21 us 	 == 8546.44 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14487.39 us 	 == 8568.88 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14728.07 us 	 == 8202.44 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14613.15 us 	 == 8396.41 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14725.80 us 	 == 8036.80 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14569.40 us 	 == 8398.10 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14423.49 us 	 == 8925.51 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14408.23 us 	 == 8566.54 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14400.72 us 	 == 8198.68 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14426.35 us 	 == 8698.91 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14402.51 us 	 == 9001.94 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14622.45 us 	 == 7989.02 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14407.52 us 	 == 8920.07 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14736.18 us 	 == 8647.66 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14653.21 us 	 == 8449.53 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14396.91 us 	 == 8877.87 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14516.83 us 	 == 8467.00 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14629.72 us 	 == 8365.34 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14437.20 us 	 == 8588.69 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14470.58 us 	 == 8579.27 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14771.10 us 	 == 8149.36 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14459.97 us 	 == 8838.42 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14391.18 us 	 == 8996.98 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14404.77 us 	 == 8490.89 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 15204.19 us 	 == 8406.63 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 15023.47 us 	 == 8072.59 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14408.23 us 	 == 8990.58 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14395.95 us 	 == 8620.45 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14416.10 us 	 == 9109.22 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14380.34 us 	 == 8507.95 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14420.27 us 	 == 8849.61 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14631.75 us 	 == 8666.90 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14384.15 us 	 == 8341.67 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14747.74 us 	 == 8307.81 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14621.50 us 	 == 8577.44 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14452.22 us 	 == 8807.79 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14425.64 us 	 == 8980.40 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14409.07 us 	 == 8903.28 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14823.91 us 	 == 7922.79 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14471.77 us 	 == 8782.85 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14418.48 us 	 == 8558.40 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14398.22 us 	 == 8534.20 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14414.55 us 	 == 8782.17 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14490.72 us 	 == 8298.63 Mbit/s
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=2, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -c 1000 -g 1 -s 16777216-16777216 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-bind/2024_01_11_09_34_43/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out
+16777216 bytes 	 -> 14488.82 us 	 == 7984.60 Mbit/s
