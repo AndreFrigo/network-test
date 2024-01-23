@@ -1,0 +1,26 @@
+# Info:   (0): Netgauge v2.4.6 MPI enabled (P=8, threadlevel=0) (/opt/cloud_noise-main/benchmarks/netgauge/netgauge -c 1000 -g 1 -s -4194304 -f /home/andrea.frigo/singularity/cloud_noise-main/data/unitn-op-c/2024_01_23_17_42_19/ng_one_one.out.tmp -m mpi -x one_one )
+# initializing MPI_Wtime timer
+# Info:   (0): writing data to ng.out.0
+1 bytes 	 -> 22.05 us 	 == 0.32 Mbit/s
+2 bytes 	 -> 22.05 us 	 == 0.62 Mbit/s
+4 bytes 	 -> 22.29 us 	 == 1.25 Mbit/s
+8 bytes 	 -> 22.53 us 	 == 2.47 Mbit/s
+16 bytes 	 -> 22.41 us 	 == 5.04 Mbit/s
+32 bytes 	 -> 22.29 us 	 == 9.90 Mbit/s
+64 bytes 	 -> 22.29 us 	 == 20.26 Mbit/s
+128 bytes 	 -> 22.65 us 	 == 40.91 Mbit/s
+256 bytes 	 -> 22.65 us 	 == 81.42 Mbit/s
+512 bytes 	 -> 23.60 us 	 == 122.71 Mbit/s
+1024 bytes 	 -> 27.89 us 	 == 220.26 Mbit/s
+2048 bytes 	 -> 37.79 us 	 == 387.15 Mbit/s
+4096 bytes 	 -> 38.98 us 	 == 742.92 Mbit/s
+8192 bytes 	 -> 43.03 us 	 == 1281.49 Mbit/s
+16384 bytes 	 -> 56.03 us 	 == 1905.57 Mbit/s
+32768 bytes 	 -> 80.70 us 	 == 2643.06 Mbit/s
+65536 bytes 	 -> 123.86 us 	 == 2767.81 Mbit/s
+131072 bytes 	 -> 237.58 us 	 == 2874.54 Mbit/s
+262144 bytes 	 -> 351.19 us 	 == 4036.76 Mbit/s
+524288 bytes 	 -> 662.68 us 	 == 4580.11 Mbit/s
+1048576 bytes 	 -> 1195.43 us 	 == 4762.69 Mbit/s
+2097152 bytes 	 -> 2831.94 us 	 == 4981.33 Mbit/s
+4194304 bytes 	 -> 5901.81 us 	 == 4845.92 Mbit/s
