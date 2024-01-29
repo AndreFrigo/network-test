@@ -1,4 +1,0 @@
-# Info:   (0): Netgauge v2.4.6 MPI enabled (P=1, threadlevel=0) (/opt/cloud_noise/benchmarks/netgauge/netgauge -o ../data/bind/2024_01_28_10_47_19/ng_osnoise.out.tmp -m mpi -x noise -s 100000 )
-# initializing MPI_Wtime timer
-# Info:   (0): writing data to ../data/bind/2024_01_28_10_47_19/ng_osnoise.out.tmp
-# Info:   (0): performing Selfish benchmark
